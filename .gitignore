@@ -1,0 +1,4 @@
+node_modules/  
+shopzone.db  
+.env  
+npm-debug.log* 
